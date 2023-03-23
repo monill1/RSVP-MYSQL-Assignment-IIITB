@@ -1,3 +1,3 @@
-# RSVP-PROJECT-MYSQL-
+# RSVP-PROJECT-MYSQL-Assignment
 
-In this project, I worked with RSVP Movies, an Indian film production company, to analyze data of movies released in the past three years. Using SQL, I drew meaningful insights to help the company with their next project, which is to release a movie for a global audience in 2022. The data analytics process was divided into four segments, where each segment provided significant insights from different combinations of tables. I provided recommendations to RSVP Movies based on the insights obtained from the data analysis, and submitted the SQL script file with the solutions in the Submission segment.
+
