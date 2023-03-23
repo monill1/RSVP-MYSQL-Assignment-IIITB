@@ -1,3 +1,3 @@
-# RSVP-PROJECT-MYSQL-Assignment
+# RSVP-MYSQL-Assignment
 
 
